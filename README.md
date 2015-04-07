@@ -2,6 +2,24 @@
 Udacity iOS Nanodegree Project 1
 
 -------------------------------------
+Description
+-------------------------------------
+
+This is an audio app that allows someone to record their voice and play it back in with one of 6 effects.
+
+
+-------------------------------------
+Additional Implementation
+-------------------------------------
+
+* Recording is pausable and resumable once paused
+* Text labels have been added to the recording and pause buttons
+* Two extra effects, echo and reverb added
+* A single function for any audio engine effects is used
+* Functions created to reduce code repetition
+
+
+-------------------------------------
 Outstanding concerns
 -------------------------------------
 
