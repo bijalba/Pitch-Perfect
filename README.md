@@ -31,7 +31,7 @@ pressing stop.
 #2
 I couldn't figure out how to get something like audioPlayerDidFinishPlaying() to work with the audioEngine. I saw
 code that had to do with configuring the completionHandler for the schedule and other workarounds, but everything
-I tried either made the stop button appear too soon or too late.
+I tried either made the stop button stop too soon or too late.
 
 #3
 It feels clunky to have a single button show and another single button hide. Is there any way to simply change the
